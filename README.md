@@ -7,6 +7,8 @@ Project Overview
 This Project Analysis Zepto-Style Grocery Delivery Data Using Microsoft Excel. The Dashboard Provides Insights Into Sales Performance, Customer Behaviour, Product Performance, Customer Satisfaction, And Delivery Efficiency.
 ________________________________________
 Dataset Information
+
+
 The Dataset Consists Of Six Business Tables:
 •	Customer
 •	Product
